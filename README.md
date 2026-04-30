@@ -75,7 +75,7 @@ textView.selectedRange
 ## 🔗 Medium Article
 
 Read full explanation here:
-👉 
+👉 https://medium.com/@manpreet.s_92558/how-to-build-a-rich-text-editor-in-ios-bold-italic-formatting-in-swift-f80f15ad8c08
 
 ---
 
